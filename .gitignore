@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+
+fileflood_boundary_tests/
+
+.fileflood_benchmark.tmp
+
+*.bin
+*.tmp
