@@ -72,9 +72,7 @@ No complicated command-line arguments required.
 
 ---
 
-## 📸 Screenshots 
 
-<img src="[https://i.postimg.cc/LXVfDDMq/Screenshot-2026-08-18-06-51-25.png]">
 
 # 📁 CREATE NEW FILE
 
@@ -416,8 +414,8 @@ No external Python packages are required.
 # ⚙️ INSTALLATION
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd FileFlood
+git clone https://github.com/an0s-voldigoad/File-Flood.git
+cd File-Flood
 chmod +x fileflood.py
 ./fileflood.py
 ```
