@@ -74,7 +74,7 @@ No complicated command-line arguments required.
 
 ## 📸 Screenshots 
 
-<img align = "center" alt="InterfaceUi" width="400" src="[https://i.postimg.cc/LXVfDDMq/Screenshot-2026-08-18-06-51-25.png]">
+<img align = "center" width="400" src="[https://i.postimg.cc/LXVfDDMq/Screenshot-2026-08-18-06-51-25.png]">
 
 # 📁 CREATE NEW FILE
 
