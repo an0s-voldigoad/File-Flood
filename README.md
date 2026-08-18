@@ -72,6 +72,10 @@ No complicated command-line arguments required.
 
 ---
 
+## 📸 Screenshots 
+
+<img align = "center" alt="InterfaceUi" width="400" src="https://ibb.co/ZDvvFpx">
+
 # 📁 CREATE NEW FILE
 
 Choose:
