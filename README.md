@@ -74,7 +74,7 @@ No complicated command-line arguments required.
 
 ## 📸 Screenshots 
 
-<img align = "center" alt="InterfaceUi" width="400" src="[https://ibb.co/ZDvvFpx](https://freeimage.host/i/CLBIqjS]">
+<img align = "center" alt="InterfaceUi" width="400" src="[https://imgh.in/host/el81an]">
 
 # 📁 CREATE NEW FILE
 
